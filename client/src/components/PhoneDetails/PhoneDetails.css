@@ -1,0 +1,42 @@
+.phone-details-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.phone-details-image {
+    width: 200px;
+}
+
+.phone-details-name {
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.phone-details-manufacturer,
+.phone-details-price,
+.phone-details-screen,
+.phone-details-processor,
+.phone-details-ram {
+    margin-bottom: 10px;
+}
+
+.phone-details-description {
+    margin-bottom: 10px;
+    margin-left: 100px; 
+    margin-right: 100px;
+}
+
+.back-link {
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.back-link:hover {
+    color: #0056b3;
+}
